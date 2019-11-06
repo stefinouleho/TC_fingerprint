@@ -1,7 +1,7 @@
 #Tanimoto Coefficient with Daylight, ECFP4,6 and FCFP 4,6
 
 
-This code is for matrices confusion of similarity with Tanimoto.
+This code is for confusion matrices of similarity with Tanimoto.
 
 To run this code properly, you first need :
 
